@@ -65,7 +65,7 @@ Execute the given launch to open Gazebo with the given world file and place the 
 ```
 roslaunch ogmen_robotics q1.launch
 ```
-This will gerate and map and a path and display it before starting. Press "1" to start the process.
+This will gerate and map and a path and display it before starting. Press "1" to start the process. Uncomment [lines](https://github.com/GauravKumar9920/ogmen_robotics_task/blob/43cde970a5c4447e26b23b30a5e225a37e1a8721/ogmen_robotics/src/scripts/Astar.py#L188-L234) to use costom start and goal points along with other parameters.
 
 
 
