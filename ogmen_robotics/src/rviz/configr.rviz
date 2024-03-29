@@ -1,0 +1,11 @@
+path:
+  Topic: /path_topic
+  Color: 0.0, 1.0, 0.0
+  Alpha: 1.0
+  LineWidth: 0.1
+  Points:
+    - A: [x1, y1, z1]
+    - B: [x2, y2, z2]
+
+map:
+  Topic: /map_topic

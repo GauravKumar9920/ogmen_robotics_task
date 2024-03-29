@@ -1,1 +1,0 @@
-# ogmen_robotics_task
