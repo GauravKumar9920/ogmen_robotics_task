@@ -1,4 +1,4 @@
-# ogmen_autonomous_slam[ video_solutions](http://gazebosim.org/tutorials?tut=install_ubuntu&cat=install).
+# ogmen_autonomous_slam[ video_solutions](https://drive.google.com/drive/folders/1LddGGvEboLfEoY1EKUzDgPqOiyOkMALp?usp=sharing).
 ## Prerequisites and setup for the Project
 ### ROS Installation
 I used Ubuntu 20.04 OS with ros noetic Version. Check the ROS official documentation for the Installation
