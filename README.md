@@ -65,7 +65,7 @@ Execute the given launch to open Gazebo with the given world file and place the 
 ```
 roslaunch ogmen_robotics q1.launch
 ```
-This will gerate and map and a path and display it before starting. Press-1 to start the process.
+This will gerate and map and a path and display it before starting. Press "1" to start the process.
 
 
 
