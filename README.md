@@ -1,4 +1,4 @@
-# ogmen_autonomous_slam[ video_solutions](https://drive.google.com/drive/folders/1LddGGvEboLfEoY1EKUzDgPqOiyOkMALp?usp=sharing).
+# ogmen_autonomous_slam[ video_solutions/Documentation](https://drive.google.com/drive/folders/1LddGGvEboLfEoY1EKUzDgPqOiyOkMALp?usp=sharing).
 ## Prerequisites and setup for the Project
 ### ROS Installation
 I used Ubuntu 20.04 OS with ros noetic Version. Check the ROS official documentation for the Installation
@@ -61,7 +61,7 @@ rosrun ogmen_robotics navigate_goal.py
 ```
 2nd way(works effortlessly, try this)-
 
-Execute the given launch to open Gazebo with the given world file and place the robot Turtlebot3 Waffle pi model in it and Perform Autonomous exploration of the environment and generate the Map
+Execute the given launch to open Gazebo with the given world file and place the robot Turtlebot3 Waffle model in it and Perform Navigation from point A to B.
 ```
 roslaunch ogmen_robotics q1.launch
 ```
